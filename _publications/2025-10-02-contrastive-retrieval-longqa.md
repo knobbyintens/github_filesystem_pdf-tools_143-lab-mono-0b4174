@@ -1,7 +1,7 @@
 ---
 title: "Contrastive Retrieval for Long-Context Question Answering"
 authors: "Dubois, L.; Kim, S.; Ahmed, F."
-venue: "Preprint"
+venue: "ACL 2025"
 paperurl: ""
 codeurl: ""
 ---
