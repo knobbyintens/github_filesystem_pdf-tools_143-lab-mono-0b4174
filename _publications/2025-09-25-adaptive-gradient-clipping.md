@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Gradient Clipping for Low-Precision Training"
 authors: "Rivera, M.; Tanaka, H."
-venue: "ICML 2025"
+venue: "Preprint"
 paperurl: ""
 codeurl: ""
 ---
