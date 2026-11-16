@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical Memory Compression for Autonomous Agents"
 authors: "Wagner, T.; Iyer, K."
-venue: "NAACL 2025"
+venue: "Preprint"
 paperurl: ""
 codeurl: ""
 ---
